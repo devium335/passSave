@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Open an issue to report a vulnurability
+Open an issue to report a vulnerability
